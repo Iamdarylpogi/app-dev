@@ -9,7 +9,8 @@ My first repository
 - The Professor  
 - Tokyo  
 - Berlin  
-- Nairobi  
+- Nairobi
+- manila
 
 ### 💭 Why I Like It
 > The story keeps me excited with its smart plans, emotional twists, and intense teamwork.  
